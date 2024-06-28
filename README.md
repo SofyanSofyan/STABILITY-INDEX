@@ -1,6 +1,6 @@
 # VOLTAGE STABILITY INDICES
 
-## Line Voltage Stability Indices
+## Line Stability Indices and Bus Stability Indices
 
 Voltage stability indices play a crucial role in assessing the stability of a power system. They provide valuable insights into the proximity of voltage instability, identify critical components, and help prevent voltage collapse. Here are some key aspects related to line voltage stability indices and bus stability:
 
