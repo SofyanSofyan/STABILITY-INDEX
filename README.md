@@ -32,7 +32,7 @@ Remember that voltage stability is a critical concern, especially as power syste
 [1]: https://core.ac.uk/download/pdf/153410138.pdf
 [2]: https://core.ac.uk/download/pdf/153410138.pdf
 
-Source: Conversation with Copilot, 6/28/2024
+
 (1) A Comparison of Voltage Stability Indices - CORE. https://core.ac.uk/download/pdf/153410138.pdf.
 (2) Line Indices for Voltage Stability Assessment. https://ewh.ieee.org/conf/powertech/2009/papers/305.pdf.
 (3) Novel Line Stability Index (NLSI) for Voltage Stability Assessment of .... http://www.wseas.us/e-library/conferences/2007beijing/papers/554-303.pdf.
